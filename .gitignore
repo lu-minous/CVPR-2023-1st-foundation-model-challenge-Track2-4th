@@ -6,9 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
-
-/dataset
-/data
+work/
+dataset/
+data/
+code/model_pth/
 *.pth
 
 # Distribution / packaging
