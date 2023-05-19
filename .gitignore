@@ -3,6 +3,43 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+.aistudiofs
+.aistudiofs.download.success
+.aistudiofs.success
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.codelab-jupyter.log
+.conda/
+.condarc
+.config/
+.data/
+.dataset.download/
+.gitconfig
+.homedata.success
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.local/
+.node.started
+.pip/
+.profile
+.python_history
+.ssh/
+.systemlogs/
+.viminfo
+.virtual_documents/
+.vscode.log
+.webide/
+code/model_pth
+data/
+dataset/
+*.pt
+*.pth
+
+
 # C extensions
 *.so
 
